@@ -1,8 +1,9 @@
 # Chicken Mod Menu Template
 ### The First Thing To Do Is, Obviously, Download The ZIP Folder, Then Extract It.
-### You Can Then Download `Microsoft Visual Studio 2026` ;
-Microsoft Visual Studio 2026 ; https://visualstudio.microsoft.com/downloads/
-#### It Is Gonna Ask You For What To Download, Choose The Following Development Method ;
+### You Can Then Download `Microsoft Visual Studio 2026` And Also `Monke Mod Manager`;
+#### Microsoft Visual Studio 2026 ; https://visualstudio.microsoft.com/downloads/
+#### Monke Mod Manager ; https://github.com/BzzzThe18th/MonkeModManager
+#### `Microsoft Visual Studio 2026` Is Gonna Ask You For What To Download, Choose The Following Development Method ;
 ~~~~~
 .NET desktop development
 
@@ -151,3 +152,15 @@ namespace StupidTemplate
     }
 }
 ~~~~~
+# `Monke Mod Manager` Setup ;
+### Step 6
+Open `MonkeModManager.exe` And, It Should Already Be Setted Up To Where Your Gorilla Tag Should Be, `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag`.
+### Step 6.1
+Press On `Install/Update` In The Buttons Area. Then, Type This In The File Explorer Top Bar ; `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`.
+#### Drag The ".dll" Of Your Menu There!
+#
+# Credits
+#### This Original Template Was Made By @goldentrophy, Creator Of The `ii's Stupid Mod Menu`.
+#### Some Of The Script Where Made By Me, @the_real_hellcatvr.
+### Thank You So Much For Using My Menu Template!
+### @THE_REAL_HELLCATVR
